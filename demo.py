@@ -3,3 +3,6 @@ print("Welcome to Telusko")
 
 
 print("Hello from Navin")
+
+print("thanks Telusko")
+
